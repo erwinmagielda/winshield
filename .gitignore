@@ -15,19 +15,19 @@ venv/
 *.psm1.bak
 
 # ---------------------------
-# WinShield runtime output
+# WinShield Runtime Output
 # ---------------------------
 results/
 downloads/
 
 # ---------------------------
-# Logs / temp
+# Logs / Temp
 # ---------------------------
 *.log
 *.tmp
 
 # ---------------------------
-# OS / Editor junk
+# OS / Editor Junk
 # ---------------------------
 .DS_Store
 Thumbs.db
